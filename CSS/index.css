@@ -1,0 +1,65 @@
+.s1
+{
+    color:salmon;
+    background-color: blanchedalmond;
+}
+.serif
+{
+    font-family: serif;
+}
+.ss
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+.small
+{
+    font-size: small;
+}
+.medium
+{
+    font-size: medium;
+}
+.large
+{
+    font-size: large;
+}
+.xlarge
+{
+    font-size: x-large;
+}
+.italic
+{
+    font-style: italic;
+}
+.ss700
+{
+    font-weight: 700;
+}
+.small-caps
+{
+    font-variant: small-caps;
+}
+.left
+{
+    text-align: left;
+}
+.right
+{
+    text-align: right;
+}
+.center
+{
+    text-align: center;
+}
+td.top
+{
+    vertical-align: top;
+}
+td.smiddle
+{
+vertical-align: middle;
+}
+td.bottom
+{
+    vertical-align: bottom;
+}
